@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380" role="img">
+<defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<radialGradient id="glow" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#FF5A1F" stop-opacity=".35"/><stop offset="1" stop-color="#FF5A1F" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1000" height="380" rx="22"/></clipPath>
+<clipPath id="band"><rect x="0" y="316" width="1000" height="64"/></clipPath><style>text{font-family:Inter,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}.m{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes sc{from{transform:translateX(0)}to{transform:translateX(-1250px)}}
+.t{animation:sc 38s linear infinite}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.25}}
+.p{animation:pu 1.8s ease-in-out infinite}
+@keyframes fi{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.a1{animation:fi .8s ease-out both}.a2{animation:fi .8s .15s ease-out both}.a3{animation:fi .8s .3s ease-out both}
+</style></defs>
+<g clip-path="url(#r)">
+<rect width="1000" height="380" fill="#0E0E0C"/><rect width="1000" height="380" fill="url(#g)"/><rect width="1000" height="380" fill="url(#glow)"/>
+<g class="a1"><rect x="56" y="48" width="236" height="34" rx="17" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/>
+<circle class="p" cx="77" cy="65" r="4.5" fill="#FF5A1F"/><text class="m" x="92" y="70" font-size="13" fill="#F7F6F3" letter-spacing="1.4">AGENCE WEB · FRANCE</text></g>
+<g class="a2"><text x="50" y="222" font-size="148" font-weight="800" fill="#F7F6F3" letter-spacing="-7">Hytris<tspan fill="#FF5A1F">.</tspan></text></g>
+<g class="a3"><text x="56" y="294" font-size="27" font-weight="500" fill="#F7F6F3" fill-opacity=".92">Votre site internet clé en main, <tspan fill="#FF5A1F" font-weight="700">en 4 semaines.</tspan></text></g>
+<g clip-path="url(#band)"><rect x="0" y="316" width="1000" height="64" fill="#FF5A1F"/>
+<g class="t"><text class="m" x="0" y="354" font-size="15" font-weight="700" fill="#0E0E0C" textLength="1250" lengthAdjust="spacing">SITES SUR MESURE  ✦  E-COMMERCE  ✦  SITES INSTITUTIONNELS  ✦  RÉFÉRENCEMENT SEO  ✦  APPLICATIONS WEB  ✦  MAINTENANCE  ✦  </text>
+<text class="m" x="1250" y="354" font-size="15" font-weight="700" fill="#0E0E0C" textLength="1250" lengthAdjust="spacing">SITES SUR MESURE  ✦  E-COMMERCE  ✦  SITES INSTITUTIONNELS  ✦  RÉFÉRENCEMENT SEO  ✦  APPLICATIONS WEB  ✦  MAINTENANCE  ✦  </text></g></g>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img">
+<defs><style>text{font-family:Inter,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}.m{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style></defs>
+<g transform="translate(0.0,0)"><rect width="322.6666666666667" height="190" rx="18" fill="#171714" stroke="#2A2A25"/>
+<text x="28" y="92" font-size="68" font-weight="800" fill="#F7F6F3" letter-spacing="-3">4</text>
+<rect x="28" y="108" width="28" height="3" rx="1.5" fill="#FF5A1F"/>
+<text x="28" y="140" font-size="18" font-weight="700" fill="#F7F6F3">semaines</text>
+<text x="28" y="164" font-size="14" fill="#9A9990">du premier échange à la mise en ligne</text></g><g transform="translate(338.6666666666667,0)"><rect width="322.6666666666667" height="190" rx="18" fill="#171714" stroke="#2A2A25"/>
+<text x="28" y="92" font-size="68" font-weight="800" fill="#F7F6F3" letter-spacing="-3">48h</text>
+<rect x="28" y="108" width="28" height="3" rx="1.5" fill="#FF5A1F"/>
+<text x="28" y="140" font-size="18" font-weight="700" fill="#F7F6F3">devis gratuit</text>
+<text x="28" y="164" font-size="14" fill="#9A9990">réponse rapide, zéro engagement</text></g><g transform="translate(677.3333333333334,0)"><rect width="322.6666666666667" height="190" rx="18" fill="#171714" stroke="#2A2A25"/>
+<text x="28" y="92" font-size="68" font-weight="800" fill="#F7F6F3" letter-spacing="-3">100%</text>
+<rect x="28" y="108" width="28" height="3" rx="1.5" fill="#FF5A1F"/>
+<text x="28" y="140" font-size="18" font-weight="700" fill="#F7F6F3">code &amp; propriété</text>
+<text x="28" y="164" font-size="14" fill="#9A9990">livrés, sans dépendance envers nous</text></g>
+</svg>

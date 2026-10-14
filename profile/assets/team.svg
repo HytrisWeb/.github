@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img">
+<defs><linearGradient id="av" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF5A1F"/><stop offset="1" stop-color="#FF9A5C"/></linearGradient><style>text{font-family:Inter,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}.m{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}</style></defs>
+<text class="m" x="4" y="22" font-size="13" fill="#FF5A1F" letter-spacing="2.5">— L'ÉQUIPE</text><g transform="translate(0.0,46)"><rect width="492.0" height="140" rx="18" fill="#171714" stroke="#2A2A25"/>
+<circle cx="76" cy="70" r="40" fill="url(#av)"/><text x="76" y="80" font-size="28" font-weight="800" fill="#0E0E0C" text-anchor="middle">TH</text>
+<text x="140" y="64" font-size="24" font-weight="700" fill="#F7F6F3" letter-spacing="-.4">Tristan Huynh</text>
+<text x="140" y="94" font-size="16" fill="#9A9990">Design &amp; UX/UI</text></g><g transform="translate(508.0,46)"><rect width="492.0" height="140" rx="18" fill="#171714" stroke="#2A2A25"/>
+<circle cx="76" cy="70" r="40" fill="url(#av)"/><text x="76" y="80" font-size="28" font-weight="800" fill="#0E0E0C" text-anchor="middle">KD</text>
+<text x="140" y="64" font-size="24" font-weight="700" fill="#F7F6F3" letter-spacing="-.4">Kevin Dimanche</text>
+<text x="140" y="94" font-size="16" fill="#9A9990">Développement &amp; Architecture</text></g>
+</svg>

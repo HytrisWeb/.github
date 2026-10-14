@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF5A1F"/><stop offset="1" stop-color="#FF8A3D"/></linearGradient><pattern id="g2" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#000" stroke-opacity=".06"/></pattern><style>text{font-family:Inter,-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif}.m{font-family:'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}@keyframes nu{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}.ar{animation:nu 1.6s ease-in-out infinite}</style></defs>
+<rect width="1000" height="230" rx="22" fill="url(#c)"/><rect width="1000" height="230" rx="22" fill="url(#g2)"/>
+<text x="56" y="88" font-size="48" font-weight="800" fill="#0E0E0C" letter-spacing="-2">Un projet en tête ?</text>
+<text x="58" y="122" font-size="18" fill="#0E0E0C" fill-opacity=".78">Devis gratuit sous 48h. Zéro engagement.</text>
+<rect x="56" y="148" width="330" height="54" rx="27" fill="#0E0E0C"/>
+<text x="84" y="182" font-size="17" font-weight="700" fill="#F7F6F3">Demandez votre devis</text>
+<text class="ar" x="344" y="182" font-size="19" font-weight="700" fill="#FF5A1F">→</text>
+<text class="m" x="944" y="182" font-size="15" font-weight="700" fill="#0E0E0C" text-anchor="end" letter-spacing=".5">contact@hytris.net</text>
+<text class="m" x="944" y="202" font-size="14" fill="#0E0E0C" fill-opacity=".7" text-anchor="end">hytris.net</text>
+</svg>
